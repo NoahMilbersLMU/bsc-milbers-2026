@@ -1,8 +1,9 @@
-# Stochastic Spectral Sampling for Radiative Transfer
+# Stochastic Wavelength Selection for Equilibrium Temperature Calculations from Line-by-Line Radiative Transfer
 
-Source code for the bachelor thesis *Stochastic Spectral Sampling for
-Radiative Transfer* (Noah Milbers, Meteorological Institute, LMU Munich, 2026;
-supervisor Prof. Dr. Bernhard Mayer).
+Source code for the bachelor thesis *Stochastic Wavelength Selection for
+Equilibrium Temperature Calculations from Line-by-Line Radiative Transfer*
+(Noah Milbers, Meteorological Institute, LMU Munich, 2026; supervisor
+Prof. Dr. Bernhard Mayer).
 
 The model is a 1D radiative-convective equilibrium model in C. It solves the
 Schwarzschild equation on 100 001 thermal-infrared wavelengths for CO2, H2O,
